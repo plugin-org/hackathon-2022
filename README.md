@@ -39,10 +39,21 @@ PLI Token worth of 100 USD for all the participants. Get your [D'Cent](https://u
 
 ### Industry to focus
 * Healthcare
+  - Using wearables data provide doctors / insurance provider to determine patient health and provide
 * Fintech
+  - Price Feeds Development
+  - Build Synthetic Assets
+  - External Payments
 * Insurance
+  - Using weather data API, build a Dapp that helps farmers / agriculture to claim insurance
+  - Use weather data API, build a Dapp that helps passenger to purchase insurance and claim
 * Defi
+  - Staking Protocol
+  - Yield Farming
 * NFT-Gaming
+  - Use randomization feature to build dynamic NFT
+  - Build application, such as NFT Minting, NFT Gaming
+  - NFT marketplace
 
 ### Judgement Criteria
 * Should leverage Plugin Oracle Service in their Dapp(Decentralized Application)
