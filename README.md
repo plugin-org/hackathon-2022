@@ -32,6 +32,8 @@ Plugin a Decentralized Oracle Network is conducting this hackathon to provide a 
 
 ## Bounties (for Participants who implements / leverages Plugin Oracle Service)
 PLI Token worth of 100 USD for all the participants. Get your [D'Cent](https://userguide.dcentwallet.com/biometric-wallet/setting-up) wallet && [XDCPay](ttps://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo/related?hl=en-GB) wallet installed immediately , after your registratoin.
+You will be competing for a total prize of 10,000 USD worth of XDC tokens.
+The hackathon event offers exciting business opportunities to all teams as they will have a chance to shine to their advantage before a jury of renowned experts.
 
 ### Sample Repository(How to setup one Dapp - Quickly)
 * [**Build a Weather Node dApp with Plugin Decentralized Oracle **](https://github.com/GoPlugin/plugin-weather-node-adapter)
@@ -39,17 +41,23 @@ PLI Token worth of 100 USD for all the participants. Get your [D'Cent](https://u
 
 ### Industry to focus
 * Healthcare
+   - Using wearables data provide doctors / insurance provider to determine patient health.
 * Fintech
+   - Price Feeds Development, Build Synthetic Assets, External Payments.
 * Insurance
+   - Using weather data API, build a Dapp that helps farmers / agriculture to claim insurance.
+   - Use weather data API, build a Dapp that helps passenger to purchase insurance and claim.
 * Defi
+   - Staking Protocol, Yield Farming.
 * NFT-Gaming
+   - Build application, such as NFT Minting, NFT Gaming, NFT marketplace, Tokenisation of physical assets on the platform.
 
 ### Judgement Criteria
-* Should leverage Plugin Oracle Service in their Dapp(Decentralized Application)
-* Should upload their repository in [plugin-org/Hackathon](https://github.com/plugin-org/hackathon) - Sub-folder
-* Should provide clear read-me file, on how to execute the same the repository
-* Should provide valid "XDCPay" Pubic wallet address to receive the bounty / prize
-* Idea should be innovative
+* Should leverage Plugin Oracle Service in their Dapp(Decentralized Application).
+* Should upload their repository in [plugin-org/Hackathon](https://github.com/plugin-org/hackathon) - Sub-folder.
+* Should provide clear read-me file, on how to execute the same in their respective repository.
+* Should provide valid "XDCPay" Pubic wallet address to receive the bounty / prize.
+* Idea should be innovative.
 
 ### Tools needed
 * [XDCPay wallet](https://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo/related?hl=en-GB)
@@ -62,7 +70,8 @@ PLI Token worth of 100 USD for all the participants. Get your [D'Cent](https://u
 
 ### Do's 
 * Always give credits to the respective repository owner if you are using someother solutions
+* Even if your idea is valid and you are not able to provide the solution, then submit your idea / your partial solution and artifacts with proper read-me file(which describes how your solution works, if it is developed).
 
 ### Dont's 
-* Do not copy paste the existing repo and just submit
+* Do not copy paste any existing repo and just submit
 * Never 
