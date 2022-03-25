@@ -28,12 +28,14 @@
 ## Introduction
 ### Why Plugin Hackathon?
 
-Plugin a Decentralized Oracle Network is conducting this hackathon to provide a unique opportunities for all the "doers" who has will to convert their dreams to reality. We welcome the participants to register the team and submit your ideas. This event is going to happen in hybrid mode, which is happening in Dubai (@ Hyatt Regency Hotel ) & also online. So why are you waiting for!, there is no constraints for you in this pandemic, but only constraints we have for you is, your idea should be on Blockchain & should leverage Plugin Oracle service.
+Plugin a Decentralized Oracle Network is conducting this hackathon to provide unique opportunities for all the "doers" who has the will to convert their dreams to reality. We welcome the participants to register the team and submit your ideas. This event is going to happen in hybrid mode, which is happening in Dubai (@ Hyatt Regency Hotel ) & also online. So why are you waiting for!, there is no constraints for you in this pandemic, but only constraints we have for you is, your idea should be on Blockchain & should leverage Plugin Oracle service.
 
 ## Bounties (for Participants who implements / leverages Plugin Oracle Service)
-PLI Token worth of 100 USD for all the participants. Get your [D'Cent](https://userguide.dcentwallet.com/biometric-wallet/setting-up) wallet && [XDCPay](ttps://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo/related?hl=en-GB) wallet installed immediately , after your registratoin.
-In hackathon you wil be competing for a total prize of 10,000 USD worth of XDC tokens.
-The hackathon event offers exciting business opportunities to all teams as they will have a chance to shine to their advantage before a jury of renowned experts.
+*  PLI Token worth of 100 USD for all the participants. Get your [D'Cent](https://userguide.dcentwallet.com/biometric-wallet/setting-up) wallet && [XDCPay](ttps://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo/related?hl=en-GB) wallet installed immediately , after your registratoin.
+
+*  In hackathon you wil be competing for a total prize of 10,000 USD worth of XDC tokens.
+
+*  The hackathon event offers exciting business opportunities to all teams as they will have a chance to shine to their advantage before a jury of renowned experts.
 
 ### Sample Repository(How to setup one Dapp - Quickly)
 * [**Build a Weather Node dApp with Plugin Decentralized Oracle **](https://github.com/GoPlugin/plugin-weather-node-adapter)
@@ -70,7 +72,9 @@ The hackathon event offers exciting business opportunities to all teams as they 
 ### Do's 
 * Always give credits to the respective repository owner if you are using someother solutions
 * Even if your idea/solution is undone within the timeframe, you can submit your idea/solution to our github repository with a clear detailed read-me file.
+* Give clear instructions(like how to set up/install, how to run your code) in your Readme.me files.
+* Post your submission/presentataion in youtube / social media, tagging with PLUGIN hackathon tagline(#Talent 2 Triumph!).
 
 ### Dont's 
 * Do not copy paste the existing repo and just submit
-* Never 
+* Don't write codes without proper comments.
