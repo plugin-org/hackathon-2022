@@ -1,0 +1,32 @@
+.gradient {
+    background: rgb(131, 251, 255);
+    /* background: linear-gradient(120deg, #70e1f5, #0effd7); */
+}
+
+.shadow-small {
+    box-shadow: 0 0 0 1px rgb(0 0 0 / 5%), 0 2px 3px 0 rgb(0 0 0 / 10%);
+}
+
+body {
+    background-color: #f5feff;
+    opacity: 0.9;
+    background-image:  radial-gradient(#000000 0.5px, transparent 0.5px), radial-gradient(#000000 0.5px, #f4fdff 0.5px);
+    background-size: 20px 20px;
+    background-position: 0 0,10px 10px;
+}
+
+.card {
+    opacity: 1.0;
+}
+
+.gauge-container > .gauge .dial {
+  stroke: #334455;
+  stroke-width: 2;
+}
+.gauge-container > .gauge .value {
+  stroke: #C9DE3C;
+  stroke-width: 3;
+}
+.gauge-container > .gauge .value-text {
+  fill: #C9DE3C;
+} 
