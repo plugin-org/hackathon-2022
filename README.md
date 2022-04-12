@@ -1,76 +1,23 @@
-- 👋 Hi, this repository is managed by GoPlugin.co team
-- 👀 Created to handle Plugin Hackathon
-- 🌱 Guidelines are below
+# Blockchain based climate dynamic NFT Project
 
-# GoPlugin Hackathon 
+### TEAM 
+1) SUDHITH XAVIER
+2) ANELYA ALTIYEVA
+3) ASNEED
+4) SHAIK IBRAHIM
+5) DANNY JOLLIN
 
-## Table of Contents
-* [Resources](#Resources)
-* [Introduction](#Introduction)
-    * [Why Plugin Hackathon](#Why-Plugin-Hackathon)
-* [Bounties](#Bounties-for-Participants)
-    * [Overview](#Bounty-Overview)
-    * [Judgement Criteria](#Judgement-Criteria)
-* [Industry to focus](#Industry_to_focus)
-* [Tools needed](#Tools-needed)
-* [Do's](#Do's)
-* [Dont's](#Dont's)
+We represent Team AWA.
 
-## Resources
-* [GOPLUGIN Website](https://www.goplugin.co/)
-* [GOPLUGIN DOCS](https://docs.goplugin.co/)
-* [GOPLUGIN github](https://github.com/GoPlugin)
-* [GOPLUGIN Development channel on Discord](https://discord.gg/4ATypYHudd) (👈Come here to get your questions answered)
-* [GOPLUGIN Youtube](https://www.youtube.com/channel/UC2SAjmusd1I2OmkR8pL5S_w/playlists)(👈Go through this to get an idea of our eco-system)
-* [XDC Fundamentals](https://codedamn.com/learn/xdc-workshop)
-* [XDC Advanced](https://codedamn.com/learn/xdc-workshop-advanced)
+## Inspiration:
+  The Ultimate T2T Hybrid Hackathon - 2022 - Powered By PLI & XDC
 
-## Introduction
-### Why Plugin Hackathon?
+##Ideation:
+AWA is a climate dynamic NFT project built on XinFin (XDC) with Plugin (PLI), the oracle protocol as the key source of real world weather data. AWA works based on climate change instances - tracking and recording it on-chain. 
 
-Plugin a Decentralized Oracle Network is conducting this hackathon to provide a unique opportunities for all the "doers" who has will to convert their dreams to reality. We welcome the participants to register the team and submit your ideas. This event is going to happen in hybrid mode, which is happening in Dubai (@ Hyatt Regency Hotel ) & also online. So why are you waiting for!, there is no constraints for you in this pandemic, but only constraints we have for you is, your idea should be on Blockchain & should leverage Plugin Oracle service.
+## How It Works:
+   AWA (XDC) monitors temperature data from all major cities in the world and based on historic data, if a new all time high or new all time low is recorded, our algorithm will mint a dynamic NFT with a generative art, details like date, city and new temperature. The minting and art generation is dynamic and completly controlled by the algorithm. Over time, AWA's NFTs shall be an immutable record of weather data. 
+   We are also gathering a climate enthusiast community to create a DAO whcih will administer different climate positive activities and will have a treausry to aid in climate related catastrophies in a quick and reliable manner. We are aiming to built a community of large and small enterprises to help with different Corporate social responsibility activities realted to climate change and weather.
 
-## Bounties (for Participants who implements / leverages Plugin Oracle Service)
-PLI Token worth of 100 USD for all the participants. Get your [D'Cent](https://userguide.dcentwallet.com/biometric-wallet/setting-up) wallet && [XDCPay](ttps://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo/related?hl=en-GB) wallet installed immediately , after your registratoin.
-In hackathon you wil be competing for a total prize of 10,000 USD worth of XDC tokens.
-The hackathon event offers exciting business opportunities to all teams as they will have a chance to shine to their advantage before a jury of renowned experts.
-
-### Sample Repository(How to setup one Dapp - Quickly)
-* [**Build a Weather Node dApp with Plugin Decentralized Oracle **](https://github.com/GoPlugin/plugin-weather-node-adapter)
-* [**Build a CryptoCompare Node dApp with Plugin Decentralized Oracle **](https://docs.goplugin.co/use-cases/crypto-compare-pricing-index)
-
-### Industry to focus
-* Healthcare
-   - Using wearables data provide doctors / insurance provider to determine patient health
-* Fintech
-   - Price Feeds Development, Build Synthetic Assets, External Payments.
-* Insurance
-   - Using weather data API, build a Dapp that helps farmers / agriculture to claim insurance, use weather data API, build a Dapp that helps passenger to purchase insurance and claim.
-* Defi
-   - Staking Protocol, Yield Farming.
-* NFT-Gaming
-   - Build application, such as NFT Minting, NFT Gaming, NFT marketplace.
-
-### Judgement Criteria
-* Should leverage Plugin Oracle Service in their Dapp(Decentralized Application)
-* Should upload their repository in [plugin-org/Hackathon](https://github.com/plugin-org/hackathon) - Sub-folder
-* Should provide clear read-me file, on how to execute the same the repository
-* Should provide valid "XDCPay" Pubic wallet address to receive the bounty / prize
-* Idea should be innovative
-
-### Tools needed
-* [XDCPay wallet](https://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo/related?hl=en-GB)
-* [D'Cent wallet](https://userguide.dcentwallet.com/biometric-wallet/setting-up)
-* [Remix-xinfin](https://remix.xinfin.network/)
-* [Remix-ethereum](https://remix.ethereum.org/)
-* [Visual Studio Code](https://code.visualstudio.com/download)
-* [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)(👈For Windows users, if needed.)
-
-
-### Do's 
-* Always give credits to the respective repository owner if you are using someother solutions
-* Even if your idea/solution is undone within the timeframe, you can submit your idea/solution to our github repository with a clear detailed read-me file.
-
-### Dont's 
-* Do not copy paste the existing repo and just submit
-* Never 
+## Find Us On Twitter: 
+https://twitter.com/AwaXdc
