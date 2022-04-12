@@ -12,7 +12,7 @@ We represent Team AWA.
 ## Inspiration:
   The Ultimate T2T Hybrid Hackathon - 2022 - Powered By PLI & XDC
 
-##Ideation:
+## Ideation:
 AWA is a climate dynamic NFT project built on XinFin (XDC) with Plugin (PLI), the oracle protocol as the key source of real world weather data. AWA works based on climate change instances - tracking and recording it on-chain. 
 
 ## How It Works:
